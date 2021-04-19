@@ -1,0 +1,20 @@
+body{
+	width: 100%;
+}
+
+#container{
+	width: 100%;
+	display: flex;
+}
+
+#input{
+	width: 40%;
+}
+
+#result_container{
+	width: 25%;
+}
+
+#log_container{
+	width: 25%;
+}
